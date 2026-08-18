@@ -1,6 +1,6 @@
 ﻿streamlit
-opencv-python-headless
 ultralytics
 torch
 torchvision
 gdown
+opencv-python-headless==4.10.0.84
